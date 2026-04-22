@@ -72,17 +72,17 @@ Nagios — pull
 
 ### Задание 7.  
 
-Cкриншот веб-интерфейса ПО chronograf (http://localhost:8888).
+Cкриншот веб-интерфейса ПО chronograf (http://localhost:8888).  
 ![terraform 1](https://github.com/ANDREYTOLOGY/terraform-hw/blob/main/img/tick1.png)    
 
 ### Задание 8.  
 
-Cкриншот с отображением метрик утилизации cpu из веб-интерфейса
+Cкриншот с отображением метрик утилизации cpu из веб-интерфейса  
 ![terraform 1](https://github.com/ANDREYTOLOGY/terraform-hw/blob/main/img/tick2.png)  
 
 ### Задание 9.  
 
-Cкриншот с отображением метрик, связанные с docker
+Cкриншот с отображением метрик, связанные с docker  
 ![terraform 1](https://github.com/ANDREYTOLOGY/terraform-hw/blob/main/img/tick3.png)  
 
 
