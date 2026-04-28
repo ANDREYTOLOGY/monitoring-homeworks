@@ -12,6 +12,8 @@ CPU Usage (%) - `100 - (avg by(instance) (rate(node_cpu_seconds_total{mode="idle
 Load Average - `node_load1` `node_load5` `node_load15`  
 Memory - `node_memory_MemAvailable_bytes / 1024 / 1024 / 1024`  
 Disk - `sum(node_filesystem_avail_bytes{fstype!="tmpfs", mountpoint="/"}) / 1024 / 1024 / 1024`  
+Cкриншот Dashboard .  
+![terraform 1](https://github.com/ANDREYTOLOGY/terraform-hw/blob/main/img/grafana-2.png)     
 
 
 ### Задание 3.  
